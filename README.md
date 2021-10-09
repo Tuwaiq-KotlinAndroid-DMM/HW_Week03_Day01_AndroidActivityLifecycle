@@ -3,9 +3,9 @@
 # Reading Material 📋
 
 
-### Folow the link below and readout try to gain understanding of what is written in the documentation:
+### Folow the link below, read the documentation and try to gain understanding of what is written in the documentation:
 
 Web Link:
-https://developer.android.com/guide/components/activities/activity-lifecycle
-
+- [Android Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+- [Android Activity Lifecycle JavaPoint](https://www.javatpoint.com/android-life-cycle-of-activity)
 
