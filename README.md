@@ -1,11 +1,18 @@
 # HW_Week3_Day1_ActivityLifecycle
 
-# Code LAB 📋
+# Reading Material 📋
 
 
-### Folow the link below, and complete the code lab:
+### Folow the link below, read the documentation and try to gain understanding of what is written in the documentation:
 
 Web Link:
-- [Android Code Lab](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0)
+- [Android Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+- [Android Activity Lifecycle JavaPoint](https://www.javatpoint.com/android-life-cycle-of-activity)
+
+
+
+
+
+
 
 
